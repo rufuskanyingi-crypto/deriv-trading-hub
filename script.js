@@ -1,0 +1,1 @@
+console.log("Deriv Trading Hub Loaded Successfully");

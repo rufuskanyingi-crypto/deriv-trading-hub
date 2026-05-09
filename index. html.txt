@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deriv Trading Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Deriv Trading Hub</h1>
+  <p>Smart Trading Dashboard</p>
+</header>
+
+<section class="hero">
+  <h2>Trade Smarter</h2>
+  <p>AI powered analytics and trading tools.</p>
+  <button>Get Started</button>
+</section>
+
+<section class="cards">
+  <div class="card">
+    <h3>Live Signals</h3>
+    <p>Real-time market insights.</p>
+  </div>
+
+  <div class="card">
+    <h3>Trading Bots</h3>
+    <p>Automated smart trading.</p>
+  </div>
+
+  <div class="card">
+    <h3>Secure Wallet</h3>
+    <p>Fast and safe transactions.</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Deriv Trading Hub</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
